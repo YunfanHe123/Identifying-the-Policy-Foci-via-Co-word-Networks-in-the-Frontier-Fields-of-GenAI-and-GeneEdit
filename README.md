@@ -1,2 +1,3 @@
 # Identifying-the-Policy-Foci-via-Co-word-Networks-in-the-Frontier-Fields-of-GenAI-and-GeneEdit
 Raw Data, Processed Data, Data Results, and Analysis Codes for the Paper "Identifying the Policy Foci via Co-word Networks in the Frontier Fields of GenAI and GeneEdit"
+Among them, Files 1 and 2 are the raw policy data for GenAI and GeneEdit respectively; Files 3 and 4 are the original co-word networks for GenAI and GeneEdit policies respectively; Files 5 and 6 are the policy hotspots and foci for GenAI and GeneEdit policies respectively; Files 7 and 8 are the BERTopic results for GenAI and GeneEdit policies respectively. The two additional compressed files contain the data preprocessing text and the analysis codes.
